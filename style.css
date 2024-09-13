@@ -1,0 +1,125 @@
+/* style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #ae9194;
+    background-color: whitesmoke;
+    margin: 0;
+}
+
+.header {
+    background-color: #c9d4d3;
+    padding: 20px 0;
+    border-bottom: 1px solid #d8dbdb;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.navbar-nav li a {
+    color: #693607;
+    font-weight: bold;
+}
+
+.hero {
+    background-image: url('image/02.png');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    color: #ccd1d0;
+}
+
+.hero-title {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero-subtitle {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.section-title {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.section-title h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.features {
+    padding: 50px 0;
+}
+
+.feature {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.feature-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.feature-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about {
+    padding: 50px 0;
+}
+
+.about-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.about-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.about-text {
+    margin-bottom: 30px;
+}
+
+.as-seen-in {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.as-seen-in-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.as-seen-in-logo {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 20px;
+}
+
+.footer {
+    background-color: #ae9194;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-text {
+    font-size: 14px;
+}
